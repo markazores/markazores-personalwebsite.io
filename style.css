@@ -3,5 +3,8 @@ body {
   text-align: center;
   font-size: 12px;
   font-style: oblique;
-  color: green;
+}
+
+p {
+  color: rgb(138, 43, 226);
 }
